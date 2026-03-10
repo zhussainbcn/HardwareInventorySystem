@@ -1,1 +1,5 @@
-{ "version": "1.0" }
+{
+    "version": "1.2.0",
+    "download_url": "https://github.com/zhussainbcn/HardwareInventorySystem/releases/download/v1.2.0/HardwareInventory.exe",
+    "notes": "Bug fixes and improvements\n- Fixed update download issue\n- Improved performance\n- Added new features"
+}
